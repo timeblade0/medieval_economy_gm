@@ -1,7 +1,7 @@
 # Medieval Economy
 
 
-Unfinished game. RTS villlage builder.  
-Created with Game Maker 5.3.  
+Unfinished RTS game. Harvest resources and build a village. No combat yet
 
-![Screenshot](https://github.com/timeblade0/medieval_economy/blob/main/screenshot.png)
+
+![Screenshot](https://github.com/timeblade0/medieval_economy/blob/main/screenshot2.png)
