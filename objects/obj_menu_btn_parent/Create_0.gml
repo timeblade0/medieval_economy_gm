@@ -1,0 +1,4 @@
+name=""
+hotkey=""
+icon=""
+tooltip=""
